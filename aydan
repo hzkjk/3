@@ -4,12 +4,13 @@ https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 https://mn-nl.mncdn.com/blutv_trt12/live.m3u8
 #EXTINF:0 type="stream" channelId="1056" group-title="SUPERSATFORUM_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-A7jlB-1wNCg/YI3eP4T69AI/AAAAAAAATRc/RahKYoYUqN0gBGptWOjet7jnYp4hQN_wACLcBGAsYHQ/s0/TRT1%2B-%2BKopya.png", TRT 1 FHD
 http://213.115.248.46:9000/TR_-_TRT_1_HD_PLUS/index.m3u8
-#EXTINF:0 type="stream" channelId="4003" group-title="SUPERSATFORUM_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-b1BHMpUZAQg/YI3eM-4AbOI/AAAAAAAATQk/-sFIDuHn6JIy2SC-_pD8HytiquHERf9YACLcBGAsYHQ/s0/ATV%2B-%2BKopya.png", ATV  HD TR
-http://79.124.14.198:8088/play/a0ik
+
 #EXTINF:0 type="stream" channelId="4003" group-title="SUPERSATFORUM_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-b1BHMpUZAQg/YI3eM-4AbOI/AAAAAAAATQk/-sFIDuHn6JIy2SC-_pD8HytiquHERf9YACLcBGAsYHQ/s0/ATV%2B-%2BKopya.png", ATV FHD
 http://213.115.248.46:9000/TR_-_ATV_HD_PLUS/index.m3u8
-#EXTINF:0 type="stream" channelId="3996" group-title="SUPERSATFORUM_ULUSAL_KANALLAR", ATV SD
+#EXTINF:0 type="stream" channelId="4003" group-title="SUPERSATFORUM_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-b1BHMpUZAQg/YI3eM-4AbOI/AAAAAAAATQk/-sFIDuHn6JIy2SC-_pD8HytiquHERf9YACLcBGAsYHQ/s0/ATV%2B-%2BKopya.png", ATV SD
 http://azerbaijan1.livetv.az/turkey/atv_turk_sd/playlist.m3u8
+#EXTINF:0 type="stream" channelId="4003" group-title="SUPERSATFORUM_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-b1BHMpUZAQg/YI3eM-4AbOI/AAAAAAAATQk/-sFIDuHn6JIy2SC-_pD8HytiquHERf9YACLcBGAsYHQ/s0/ATV%2B-%2BKopya.png", ATV  HD TR
+http://79.124.14.198:8088/play/a0ik
 #EXTINF:0 type="stream" channelId="208" group-title="SUPERSATFORUM_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-aNHq9fXOobA/YI3eOUhdOEI/AAAAAAAATQ8/tudnxeQ3XuMwFqGfRXlu6ZUiWj-o3mUGQCLcBGAsYHQ/s0/FOX%2B-%2BKopya.png", FOX TV HD
 https://mn-nl.mncdn.com/blutv_foxtv_dvr/live_720p2000000/index.m3u8
 #EXTINF:0 type="stream" channelId="208" group-title="SUPERSATFORUM_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-aNHq9fXOobA/YI3eOUhdOEI/AAAAAAAATQ8/tudnxeQ3XuMwFqGfRXlu6ZUiWj-o3mUGQCLcBGAsYHQ/s0/FOX%2B-%2BKopya.png", FOX TV FHD
