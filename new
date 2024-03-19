@@ -1580,11 +1580,7 @@ http://109.233.21.182:25461/icsn/icsn/44339
 http://109.233.21.182:25461/icsn/icsn/44340
 #EXTINF:-1 tvg-id="" tvg-name="Aljazeera English" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/51c11b909dcaabd37a51d3c6acbfb9b6.png" group-title="Favorite channels",Aljazeera English
 http://109.233.21.182:25461/icsn/icsn/44341
-#EXTINF:-1 tvg-id="" tvg-name="IL - I24" tvg-logo="http://go4.pw/EUROPE/HEBREW/I24HD.png" group-title="ISRAEL",IL - I24
-http://109.233.21.182:25461/icsn/icsn/44342
-#EXTINF:-1 tvg-id="" tvg-name="USA: CNBC World VIP" tvg-logo="" group-title="Favorite channels",USA: CNBC World VIP
-http://109.233.21.182:25461/icsn/icsn/44343
-#EXTINF:-1 tvg-id="" tvg-name="I24" tvg-logo="" group-title="ISRAEL",I24
+
 http://109.233.21.182:25461/icsn/icsn/44344
 #EXTINF:-1 tvg-id="" tvg-name="FR: i24 News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/61b8895efa74eaa4ffcdbbdcce2d87c0.png" group-title="Favorite channels",FR: i24 News
 http://109.233.21.182:25461/icsn/icsn/26486
