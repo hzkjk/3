@@ -153,5 +153,45 @@ https://masr-usa-enc.edgenextcdn.net/out/v1/5fcaf05b5cd64b3cb4a969e0470080c8/ind
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="MBC GROUP", الشرق
 
+
+
+
+#EXTINF:0 tvg-country="JO" tvg-logo="https://ia801400.us.archive.org/20/items/logo-channel-png/logo%20channel%20png.png" group-title="MBC GROUP",ام بي سي - بوليوود  ᴴᴰ
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:0 tvg-country="JO" tvg-logo="https://ia801400.us.archive.org/20/items/logo-channel-png/logo%20channel%20png.png" group-title="MBC GROUP",ام بي سي اكشن -  
+https://edge66.magictvbox.com/liveApple/MBC_Action/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-country="JO" tvg-logo="https://ia801400.us.archive.org/20/items/logo-channel-png/logo%20channel%20png.png" group-title="MBC GROUP", ام بي سي - ماكس  
+http://149.57.37.10/EX/MBC_MAX_FHD-ar/index.m3u8
+#EXTINF:0 tvg-country="JO" tvg-logo="https://ia801400.us.archive.org/20/items/logo-channel-png/logo%20channel%20png.png" group-title="MBC GROUP", ام بي سي - منوعات  
+http://149.57.37.10/EX/MBC_Variety_HD-ar/index.m3u8
+#EXTINF:0 tvg-country="JO" tvg-logo="https://ia801400.us.archive.org/20/items/logo-channel-png/logo%20channel%20png.png" group-title="MBC GROUP", ام بي سي - بلس
+http://line.4k-beast.co:80/1005705A1DCC226/4794741A742463A/1445986
+#EXTINF:0 tvg-country="JO" tvg-logo="https://ia801400.us.archive.org/20/items/logo-channel-png/logo%20channel%20png.png" group-title="MBC GROUP", ام بي سي بلس - 1
+http://line.4k-beast.co:80/1005705A1DCC226/4794741A742463A/1445975
+#EXTINF:0 tvg-country="JO" tvg-logo="https://ia801400.us.archive.org/20/items/logo-channel-png/logo%20channel%20png.png" group-title="MBC GROUP", ام بي سي بلس - 2
+http://line.4k-beast.co:80/1005705A1DCC226/4794741A742463A/1445976
+#EXTINF:0 tvg-country="JO" tvg-logo="https://ia801400.us.archive.org/20/items/logo-channel-png/logo%20channel%20png.png" group-title="MBC GROUP",ام بي سي بلس - اي اند
+http://line.4k-beast.co:80/1005705A1DCC226/4794741A742463A/1445982
+#EXTINF:0 tvg-country="JO" tvg-logo="https://ia801400.us.archive.org/20/items/logo-channel-png/logo%20channel%20png.png" group-title="MBC GROUP", animal planet  
+http://mu3241218.oknirvana.club:8880/LuisDL/PGBBpJbZ9f/3161
+#EXTINF:0 tvg-country="JO" tvg-logo="https://ia801400.us.archive.org/20/items/logo-channel-png/logo%20channel%20png.png" group-title="MBC GROUP", animal planet us
+http://xxip9.top:8080/live/71983280/57849683/17870.m3u8
+#EXTINF:0 tvg-country="JO" tvg-logo="https://ia801400.us.archive.org/20/items/logo-channel-png/logo%20channel%20png.png" group-title="MBC GROUP", شوف 
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6Shoof1/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="MBC GROUP" ,MBC 1 HD 
+
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8
+
+#EXTINF:-1 tvg-id="Wanasah" tvg-name="AR:MY-MBC Wanasah FHD" tvg-logo="https://www.arabsat.com/Library/ChannelImages/Wanasah.png" group-title="MBC GROUP",MBC Wanasah FHD
+https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
+#EXTINF:-1 tvg-id="Wanasah" tvg-name="AR:MY-MBC Wanasah FHD" tvg-logo="https://i.ytimg.com/vi/f6dSa1G_dt0/hqdefault.jpg" group-title="MBC GROUP",MBC FM
+https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC FM 4K" tvg-logo="https://www.okaz.com.sa/uploads/images/2018/09/05/976747.jpg" group-title="MBC GROUP",MBC panoramafm FHD
+https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/MBC_Persia_Logo.png" group-title="MBC GROUP",MBC Persia
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/auHH1Ig.png" group-title="MBC GROUP",Fashion TV Midnite Secrets
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+
 https://shls-asharq-prod-dub.shahid.net/out/v1/3b6b4902cf8747a28619411239584002/index_1.m3u8
 
